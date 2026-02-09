@@ -1,8 +1,8 @@
 // Edit your personal details and projects below.
 const PROFILE = {
   name: 'Mohan Sirvi',
-  title: 'Software Engineer II · Full-Stack Developer',
-  bio: 'Passionate software engineer with 4.5+ years of professional experience building scalable, high-performance applications using modern technologies. Currently at Q2 Software, specialized in .NET Core, Azure, and distributed systems.',
+  title: 'Software Engineer II · @Q2 Software, Bengaluru India',
+  bio: 'A dedicated Software Engineer with 4.5+ years of professional experience with a passion for building scalable, high-performance software solutions and driving digital transformation. I excel in developing robust backend systems using C#, .NET, ASP.NET Core, and WebAPI, with deep expertise in RESTful APIs, distributed systems, and microservices architecture. My proficiency extends to database management with MSSQL and NoSQL, advanced caching strategies, and cloud-based solutions leveraging Azure Cloud services like Azure App Service, Storage Account, Service Bus and Azure Functions.',
   github: 'https://github.com/mohansirvi',
   linkedin: 'https://www.linkedin.com/in/mohansirvi',
   email: 'mohansirvi999@gmail.com',
@@ -93,10 +93,10 @@ const EXPERIENCE = [
 const SKILLS = {
   backend: ['C#', '.NET Core', 'ASP.NET Core', 'Entity Framework Core', 'Web API', 'Microservices', '.NET Framework'],
   cloud: ['Microsoft Azure', 'Azure Functions', 'Azure Service Bus', 'Azure DevOps'],
-  database: ['SQL Server', 'SQL', 'NoSQL', 'Stored Procedures'],
-  frontend: ['HTML5', 'CSS3', 'JavaScript', 'Vue.js', 'Sencha Ext.js'],
+  database: ['SQL Server', 'SQL', 'NoSQL', 'Redis'],
+  frontend: ['HTML5', 'CSS3', 'JavaScript', 'Vue.js', 'Ext.js'],
   tools: ['Git/Github', 'CI/CD', 'Agile Development'],
-  concepts: ['Distributed Systems', 'Scalable Systems', 'OOPS', 'Data Structures & Algorithms', 'RESTful APIs']
+  concepts: ['Distributed Systems', 'Scalable Systems', 'OOPS', 'SOLID', 'Design Patterns', 'Data Structures & Algorithms', 'RESTful APIs']
 }
 
 function populateProfile(){

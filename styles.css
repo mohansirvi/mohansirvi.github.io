@@ -60,8 +60,8 @@ a:hover{color:var(--accent-light)}
   filter:blur(20px);
 }
 .profile img{
-  width:350px;
-  height:350px;
+  width:450px;
+  height:450px;
   object-fit:cover;
   border-radius:16px;
   box-shadow:0 20px 60px rgba(12,15,22,.8),0 0 40px rgba(124,92,255,0.2);
